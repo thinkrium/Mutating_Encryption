@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm ~/Desktop/Thinkrium/oorti_us/code_base/encryption/thinkrium_secure
+cp content_encryption ~/Desktop/Thinkrium/oorti_us/code_base/encryption/thinkrium_secure
+echo "Encryption copied!"
